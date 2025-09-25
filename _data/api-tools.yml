@@ -457,7 +457,7 @@
   posture: "https://img.shields.io/badge/API_Posture-Yes-brightgreen.svg"
   runtime: "https://img.shields.io/badge/API_Runtime-Yes-brightgreen.svg"
   testing: "https://img.shields.io/badge/API_Testing-Yes-brightgreen.svg"
-  notes: "<em>Comprehensive API security platform with discovery, testing, and runtime protection. <br/>Deployment options: inline with cloud-native connectors, out-of-band mirroring, ebpf, edge.</em>"
+  notes: "</br><em>Recognized by analysts as an API security leader, delivering a comprehensive platform for discovery, testing, and runtime protection. <br/>Flexible deployment: inline with cloud-native connectors, out-of-band mirroring, eBPF, and edge.</em>"
 - name: "WebInspect"
   link: "https://www.microfocus.com/en-us/cyberres/application-security/webinspect"
   from: "Fortify"
